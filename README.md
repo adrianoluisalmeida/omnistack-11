@@ -1,6 +1,6 @@
 <h4 align="center">
 <img src="./logo.png" width="250px" /><br>
- <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
+ 
 </h4>
 <p align="center">
   
